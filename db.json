@@ -1,0 +1,34 @@
+{
+
+
+    "cuteCritters":[
+
+        { 
+            "id": 1,
+            "name": "Woobly"
+        }
+            ,
+        { 
+            "id": 2,
+            "name": "Joobly"
+        }
+            ,
+        { 
+            "id": 3,
+            "name": "WooblyBa"
+        }
+            ,
+        { 
+            "id": 4,
+            "name": "WooblyWawa"
+        }
+            ,
+        { 
+            "id": 5,
+            "name": "WaWaWa"
+        }
+
+    ]
+
+
+}
